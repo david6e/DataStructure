@@ -1,5 +1,5 @@
 # Data Structure
-## Taller: Pilas y Colas
+## Pilas y Colas
 ### Descripción del Problema
 En la actualidad, la música digital se ha convertido en un elemento esencial de entretenimiento y expresión personal. Con una gran cantidad de canciones disponibles en plataformas de streaming, los usuarios necesitan herramientas efectivas para gestionar sus listas de reproducción de forma ágil y organizada.
 
